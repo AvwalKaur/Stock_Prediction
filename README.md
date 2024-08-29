@@ -1,5 +1,5 @@
 # NVIDIA Stock Price Prediction Using Time Series Forecasting
-This project is aimed at predicting the future stock price movements of NVIDIA Corporation using time series forecasting techniques. The project explores and compares the performance of three different models: LSTM (Long Short-Term Memory), RNN (Recurrent Neural Network), and Random Forest.
+This is a research project submitted as part of 6-week online Machine Learning Summer Internship organized by Indira Gandhi Delhi Technical University for Women (IGDTUW) for Summer 2024-2025. This project is aimed at predicting the future stock price movements of NVIDIA Corporation using time series forecasting techniques. The project explores and compares the performance of three different models: LSTM (Long Short-Term Memory), RNN (Recurrent Neural Network), and Random Forest.
 ## Introduction
 In this project, we forecast the stock prices of NVIDIA using historical price data. Stock price prediction is a complex problem due to the volatile nature of the stock market, and accurate predictions can be beneficial for investors.
 ## Dataset
@@ -13,7 +13,7 @@ RNNs are powerful for sequential data, as they have connections that form direct
 ### Random Forest
 Random Forest is an ensemble learning method used for classification and regression. It builds multiple decision trees and merges them to get a more accurate and stable prediction.
 
-## Result (Actual vs Predicted Graphs)
+## Results (Actual vs Predicted Graphs)
 ### LSTM Model
 ![st pred graph](https://github.com/user-attachments/assets/08cca14c-c91c-4d3f-bd65-b5974c2efd0b)
 ### RNN Model
@@ -21,7 +21,8 @@ Random Forest is an ensemble learning method used for classification and regress
 ### Random Forest Model
 ![Random forest](https://github.com/user-attachments/assets/cb910a3b-1750-43a4-9cfe-ed75a8cb8174)
 
-
-
 ## Conclusion
 The project demonstrates the effectiveness of using deep learning models like LSTM and RNN for time series forecasting, specifically in predicting stock prices. While Random Forest provided decent results, the deep learning models outperformed it in terms of prediction accuracy.
+
+## Contributors :)
+### Anjali Dass <> Atreyi Prasad <> Avwal Kaur
