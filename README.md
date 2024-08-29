@@ -15,7 +15,7 @@ Random Forest is an ensemble learning method used for classification and regress
 
 ## Result (Actual vs Predicted Graphs)
 ### LSTM Model
-![st pred graph](https://github.com/user-attachments/assets/08cca14c-c91c-4d3f-bd65-b5974c2efd0b){width="250px"}
+![st pred graph](https://github.com/user-attachments/assets/08cca14c-c91c-4d3f-bd65-b5974c2efd0b){width="100px"}
 ### RNN Model
 ![rnn prediction](https://github.com/user-attachments/assets/2ebd861e-43a3-4183-bf04-3353edea9cb6){width="250px"}
 ### Random Forest Model
