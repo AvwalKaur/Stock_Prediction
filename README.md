@@ -25,4 +25,4 @@ Random Forest is an ensemble learning method used for classification and regress
 The project demonstrates the effectiveness of using deep learning models like LSTM and RNN for time series forecasting, specifically in predicting stock prices. While Random Forest provided decent results, the deep learning models outperformed it in terms of prediction accuracy.
 
 ## Contributed By :)
-### Anjali Dass <> Atreyi Prasad <> Avwal Kaur
+### Anjali Das <> Atreyi Prasad <> Avwal Kaur
