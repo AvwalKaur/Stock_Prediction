@@ -1,5 +1,5 @@
 # NVIDIA Stock Price Prediction Using Time Series Forecasting
-This is a research project submitted as part of 6-week online Machine Learning Summer Internship organized by Indira Gandhi Delhi Technical University for Women (IGDTUW) for Summer 2024-2025. This project is aimed at predicting the future stock price movements of NVIDIA Corporation using time series forecasting techniques. The project explores and compares the performance of three different models: LSTM (Long Short-Term Memory), RNN (Recurrent Neural Network), and Random Forest.
+This is a research project submitted as part of 6-week online Machine Learning Summer Internship organized by Indira Gandhi Delhi Technical University for Women (IGDTUW). This project is aimed at predicting the future stock price movements of NVIDIA Corporation using time series forecasting techniques. The project explores and compares the performance of three different models: LSTM (Long Short-Term Memory), RNN (Recurrent Neural Network), and Random Forest.
 ## Introduction
 In this project, we forecast the stock prices of NVIDIA using historical price data. Stock price prediction is a complex problem due to the volatile nature of the stock market, and accurate predictions can be beneficial for investors.
 ## Dataset
